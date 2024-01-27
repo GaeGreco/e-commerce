@@ -1,6 +1,7 @@
 package routes
 
 import (
+	"github.com/GaeGreco/e-commerce/controllers"
 	"github.com/gin-gonic/gin"
 )
 
